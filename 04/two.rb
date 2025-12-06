@@ -62,3 +62,5 @@ as.each do |x, y|
   end
 end
 p res
+
+# answer: 1950

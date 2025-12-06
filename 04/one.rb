@@ -83,3 +83,5 @@ end
 
 new_matrix.each { puts _1.join('') }
 p res
+
+# answer: 2593
